@@ -70,7 +70,8 @@ paper.
 
 * R. Kawashima and H. Matsuo, "Accelerating the Performance of Software 
 Tunneling using a Receive Offload-aware Novel L4 Protocol", IEICE 
-Transactions on Communications, vol.E98-B, no.11, 2015 (to appear).
+Transactions on Communications, vol. E98-B, no. 11, pp. 2180-2189, 2015.
+[12th IEICE Communications Society Best Paper Award]
 
 * R. Kawashima, S. Muramatsu, H. Nakayama, T. Hayashi, and H. Matsuo, 
 "SCLP: Segment-oriented Connection-less Protocol for High-Performance 
